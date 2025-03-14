@@ -1,0 +1,5 @@
+[project]
+name = "qa-skills"
+version = "0.1.0"
+description = "50 QA and test-automation skills for Claude Code, Codex, Cursor, and any Agent Skills Standard runtime."
+requires-python = ">=3.10"
